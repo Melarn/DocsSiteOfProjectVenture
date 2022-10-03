@@ -6,9 +6,9 @@ description: О том как установить и пользоватся
 
 ## [Plasmovoice](https://modrinth.com/mod/plasmo-voice/versions)
 
-* [ ] Скачайте и установите [Fabric](https://fabricmc.net/use/installer/) или [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)&#x20;
-* [ ] Скачайте [Plasmo Voice](https://modrinth.com/mod/plasmo-voice/versions) и поместите его в папку .minecraft/mods.&#x20;
-* [ ] Запустите [игру](https://www.minecraft.net/ru-ru) и наслаждайтесь модом.
+* [x] Скачайте и установите [Fabric](https://fabricmc.net/use/installer/) или [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)&#x20;
+* [x] Скачайте [Plasmo Voice](https://modrinth.com/mod/plasmo-voice/versions) и поместите его в папку .minecraft/mods.&#x20;
+* [x] Запустите [игру](https://www.minecraft.net/ru-ru) и наслаждайтесь модом.
 
 {% hint style="info" %}
 Для [Fabric](https://fabricmc.net/use/installer/) требуется дополнительно установить [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)
