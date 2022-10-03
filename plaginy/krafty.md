@@ -17,8 +17,8 @@
 
 `Для крафта потребуется:`
 
-* <mark style="color:blue;">**4**</mark> Светокаменной пыли
-* <mark style="color:blue;">1</mark> Слиток золота
+* <mark style="color:blue;">**1**</mark>  Слиток золота
+* <mark style="color:blue;">4</mark>  <mark style="color:blue;"></mark><mark style="color:blue;">****</mark>  Светокаменной пыли
 
 
 
