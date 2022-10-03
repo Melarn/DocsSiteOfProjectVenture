@@ -22,4 +22,4 @@
 
 
 
-<figure><img src="../.gitbook/assets/ezgif.com-gif-maker (1).gif" alt="Процесс создания невидимого света"><figcaption><p>Процесс создания невидимого света</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/light.gif" alt="Процесс создания невидимого света"><figcaption><p>Процесс создания невидимого света</p></figcaption></figure>

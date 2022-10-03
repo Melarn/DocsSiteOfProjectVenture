@@ -1,6 +1,6 @@
 # 🕯 Алхимия
 
-<figure><img src="../.gitbook/assets/6d940093a75b7b065b3569e2c62143b72ecbf11d (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Alcemy.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Для роботы [<mark style="color:purple;">данной</mark>](alkhimiya.md) механики нужно поставить **котёл** на огонь и подождать...&#x20;
