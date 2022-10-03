@@ -17,7 +17,7 @@ description: О том как установить и пользоватся
 {% hint style="info" %}
 Чтобы говорить, вам нужно зажимать клавишу <mark style="color:green;">`Alt`</mark>.
 
-Чтобы открыть меню настроек [мода](golosovoi-chat.md#plasmovoice) — нажмите на клавишу `V` по умолчанию.
+Чтобы открыть меню настроек [мода](golosovoi-chat.md#plasmovoice) — нажмите на клавишу <mark style="color:green;">`V`</mark> по умолчанию.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/PlasmoVoice.gif" alt="Для того чтобы изменить звук зажмите ПКМ + Колёсико мышки"><figcaption><p>Для того чтобы изменить звук зажмите ПКМ + Колёсико мышки</p></figcaption></figure>
