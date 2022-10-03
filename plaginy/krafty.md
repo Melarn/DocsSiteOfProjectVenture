@@ -4,8 +4,8 @@
 
 `Для крафта потребуется:`
 
-* **8** Рамок
-* **1** Зелье на невидимость на **3 мин**.
+* <mark style="color:blue;">**8**</mark> Рамок
+* <mark style="color:blue;">**1**</mark> Зелье на невидимость на <mark style="color:orange;">**3**</mark>** мин**.
 
 <figure><img src="../.gitbook/assets/Ramka.gif" alt="Процесс создания невидимых рамок"><figcaption><p>Процесс создания невидимых рамок</p></figcaption></figure>
 
@@ -17,8 +17,8 @@
 
 `Для крафта потребуется:`
 
-* **4** Светокаменной пыли
-* 1 Слиток золота
+* <mark style="color:blue;">**4**</mark> Светокаменной пыли
+* <mark style="color:blue;">1</mark> Слиток золота
 
 
 
