@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # 🕯 Алхимия
 
 <figure><img src="../.gitbook/assets/6d940093a75b7b065b3569e2c62143b72ecbf11d (1).gif" alt=""><figcaption></figcaption></figure>
