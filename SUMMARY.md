@@ -12,9 +12,9 @@
 ## Плагины
 
 * [🕯 Алхимия](plaginy/alkhimiya.md)
+* [🧨 Крафты](plaginy/krafty.md)
 * [📞 Голосовой Чат](plaginy/golosovoi-chat.md)
 * [⏮ Визуализация объектов](plaginy/vizualizaciya-blokov.md)
-* [🧨 Крафты](plaginy/krafty.md)
 
 ## ℹ Доп. Информация
 
