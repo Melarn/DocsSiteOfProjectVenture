@@ -14,7 +14,7 @@
 * [🕯 Алхимия](plaginy/alkhimiya.md)
 * [🧨 Крафты](plaginy/krafty.md)
 * [📞 Голосовой Чат](plaginy/golosovoi-chat.md)
-* [⏮ Визуализация объектов](plaginy/vizualizaciya-blokov.md)
+* [⏮ Визуализация блоков](plaginy/vizualizaciya-blokov.md)
 
 ## ℹ Доп. Информация
 
