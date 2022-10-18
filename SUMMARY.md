@@ -7,7 +7,7 @@
 * [💡 FAQ (часто задаваемые вопросы)](o-servere/faq-chasto-zadavaemye-voprosy.md)
 * [🔠 О Командах](o-servere/o-komandakh.md)
 * [🇺🇳 Правила](o-servere/pravila/README.md)
-  * [Page 1](o-servere/pravila/page-1.md)
+  * [Фермы](o-servere/pravila/page-1.md)
 
 ## Плагины
 
