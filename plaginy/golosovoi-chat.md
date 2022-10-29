@@ -21,3 +21,7 @@ description: О том как установить и пользоватся
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/PlasmoVoice.gif" alt="Для того чтобы изменить звук зажмите ПКМ + Колёсико мышки"><figcaption><p>Для того чтобы изменить звук зажмите ПКМ + Колёсико мышки</p></figcaption></figure>
+
+{% hint style="info" %}
+Если вы установили [мод](https://modrinth.com/mod/plasmo-voice/versions) правильно, то у вас должен появится зеленый значок возле вашего ника.
+{% endhint %}
