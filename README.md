@@ -38,8 +38,8 @@ I**P сервера:** projectventure.tk
 
 ## Доп. Информация
 
-{% content-ref url="dop.-informaciya/getting-set-up/" %}
-[getting-set-up](dop.-informaciya/getting-set-up/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ##
