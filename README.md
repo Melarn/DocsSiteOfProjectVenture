@@ -4,13 +4,7 @@
 I**P сервера:** projectventure.tk
 {% endhint %}
 
-
-
 ## Навигация
-
-{% content-ref url="o-servere/faq-chasto-zadavaemye-voprosy.md" %}
-[faq-chasto-zadavaemye-voprosy.md](o-servere/faq-chasto-zadavaemye-voprosy.md)
-{% endcontent-ref %}
 
 {% content-ref url="o-servere/pravila/" %}
 [pravila](o-servere/pravila/)
@@ -18,6 +12,10 @@ I**P сервера:** projectventure.tk
 
 {% content-ref url="o-servere/o-komandakh.md" %}
 [o-komandakh.md](o-servere/o-komandakh.md)
+{% endcontent-ref %}
+
+{% content-ref url="o-servere/faq-chasto-zadavaemye-voprosy.md" %}
+[faq-chasto-zadavaemye-voprosy.md](o-servere/faq-chasto-zadavaemye-voprosy.md)
 {% endcontent-ref %}
 
 ## Плагины
