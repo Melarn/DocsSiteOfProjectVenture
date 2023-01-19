@@ -24,12 +24,12 @@ I**P сервера:** projectventure.tk
 [golosovoi-chat.md](plaginy/golosovoi-chat.md)
 {% endcontent-ref %}
 
-{% content-ref url="plaginy/vizualizaciya-blokov.md" %}
-[vizualizaciya-blokov.md](plaginy/vizualizaciya-blokov.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="plaginy/alkhimiya.md" %}
-[alkhimiya.md](plaginy/alkhimiya.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="plaginy/krafty.md" %}
