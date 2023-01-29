@@ -6,8 +6,8 @@ I**P сервера:** projectventure.tk
 
 ## Навигация
 
-{% content-ref url="o-servere/pravila.md" %}
-[pravila.md](o-servere/pravila.md)
+{% content-ref url="o-servere/pravila/" %}
+[pravila](o-servere/pravila/)
 {% endcontent-ref %}
 
 {% content-ref url="o-servere/o-komandakh.md" %}
