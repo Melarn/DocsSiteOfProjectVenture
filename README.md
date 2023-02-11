@@ -4,6 +4,10 @@
 I**P сервера:** projectventure.tk
 {% endhint %}
 
+{% hint style="info" %}
+**Дискорд:** [https://discord.gg/2Zcs3wz97V](https://discord.gg/2Zcs3wz97V)
+{% endhint %}
+
 ## Навигация
 
 {% content-ref url="o-servere/pravila/" %}
